@@ -2,7 +2,7 @@
 
 [See the Demo](http://codepen.io/alexandercastillo/details/YXrmPE/)
 
-[Read the Blog Post](http://www.castillo.io/angular-text-slider)
+[Read the Blog Post](http://www.castillo.io/blog/angular-text-slider)
 
 
 ## Browser Support
