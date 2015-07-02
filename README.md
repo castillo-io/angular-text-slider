@@ -7,7 +7,7 @@
 
 ## Browser Support
 
-There 2 main parts of this component where browser support should be considered:
+There are 2 main parts of this component where browser support should be considered:
 
 * AngularJS 1.4.x (IE9+)
 * HTML5's [Input Type Range](http://caniuse.com/#feat=input-range) (IE10+)
